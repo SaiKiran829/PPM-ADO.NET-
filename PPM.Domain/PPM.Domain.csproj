@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="8.0.32" />
+    <PackageReference Include="MySqlConnector" Version="2.2.5" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\IEntityOperation\IEntityOperation.csproj" />
+    <ProjectReference Include="..\PPM.DAL\PPM.DAL.csproj" />
+  </ItemGroup>
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,148 @@
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.Main.exe
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.Main.deps.json
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.Main.runtimeconfig.json
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.Main.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.Main.pdb
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\obj\Debug\net7.0\PPM.Main.csproj.AssemblyReference.cache
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\obj\Debug\net7.0\PPM.Main.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\obj\Debug\net7.0\PPM.Main.AssemblyInfoInputs.cache
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\obj\Debug\net7.0\PPM.Main.AssemblyInfo.cs
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\obj\Debug\net7.0\PPM.Main.csproj.CoreCompileInputs.cache
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\obj\Debug\net7.0\PPM.Main.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\obj\Debug\net7.0\refint\PPM.Main.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\obj\Debug\net7.0\PPM.Main.pdb
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\obj\Debug\net7.0\PPM.Main.genruntimeconfig.cache
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\obj\Debug\net7.0\ref\PPM.Main.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\bin\Debug\net7.0\Google.Protobuf.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\bin\Debug\net7.0\MySql.Data.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\bin\Debug\net7.0\ZstdNet.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\bin\Debug\net7.0\comerr64.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\bin\Debug\net7.0\gssapi64.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\bin\Debug\net7.0\k5sprt64.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\bin\Debug\net7.0\krb5_64.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\bin\Debug\net7.0\krbcc64.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\bin\Debug\net7.0\MySqlConnector.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\bin\Debug\net7.0\System.Drawing.Common.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\bin\Debug\net7.0\System.Security.Permissions.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\bin\Debug\net7.0\System.Windows.Extensions.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.DAL.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.Model.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.DAL.pdb
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.Model.pdb
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Main\obj\Debug\net7.0\PPM.Main.csproj.CopyComplete
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.Main.exe
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.Main.dll.config
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.Main.deps.json
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.Main.runtimeconfig.json
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.Main.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.Main.pdb
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\Google.Protobuf.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\MySql.Data.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\ZstdNet.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\comerr64.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\gssapi64.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\k5sprt64.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\krb5_64.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\krbcc64.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\MySqlConnector.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\System.Drawing.Common.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\System.Security.Permissions.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\System.Windows.Extensions.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.DAL.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.Domain.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.Model.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.UI.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.UI.pdb
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.DAL.pdb
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.Domain.pdb
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.Model.pdb
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\obj\Debug\net7.0\PPM.Main.csproj.AssemblyReference.cache
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\obj\Debug\net7.0\PPM.Main.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\obj\Debug\net7.0\PPM.Main.AssemblyInfoInputs.cache
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\obj\Debug\net7.0\PPM.Main.AssemblyInfo.cs
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\obj\Debug\net7.0\PPM.Main.csproj.CoreCompileInputs.cache
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\obj\Debug\net7.0\PPM.Main.csproj.CopyComplete
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\obj\Debug\net7.0\PPM.Main.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\obj\Debug\net7.0\refint\PPM.Main.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\obj\Debug\net7.0\PPM.Main.pdb
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\obj\Debug\net7.0\PPM.Main.genruntimeconfig.cache
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\obj\Debug\net7.0\ref\PPM.Main.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.Main.exe
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.Main.dll.config
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.Main.deps.json
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.Main.runtimeconfig.json
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.Main.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.Main.pdb
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\ZstdNet.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\comerr64.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\gssapi64.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\k5sprt64.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\krb5_64.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\krbcc64.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\IEntityOperation.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.DAL.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.Domain.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.Model.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.UI.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.UI.pdb
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\IEntityOperation.pdb
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.DAL.pdb
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.DAL.dll.config
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.Domain.pdb
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.Model.pdb
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\obj\Debug\net7.0\PPM.Main.csproj.AssemblyReference.cache
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\obj\Debug\net7.0\PPM.Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\obj\Debug\net7.0\PPM.Main.AssemblyInfoInputs.cache
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\obj\Debug\net7.0\PPM.Main.AssemblyInfo.cs
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\obj\Debug\net7.0\PPM.Main.csproj.CoreCompileInputs.cache
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\obj\Debug\net7.0\PPM.Main.csproj.CopyComplete
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\obj\Debug\net7.0\PPM.Main.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\obj\Debug\net7.0\refint\PPM.Main.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\obj\Debug\net7.0\PPM.Main.pdb
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\obj\Debug\net7.0\PPM.Main.genruntimeconfig.cache
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Main\obj\Debug\net7.0\ref\PPM.Main.dll
+C:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\IEntityOperation.dll
+C:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\IEntityOperation.pdb
+C:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Main\bin\Debug\net7.0\PPM.DAL.dll.config

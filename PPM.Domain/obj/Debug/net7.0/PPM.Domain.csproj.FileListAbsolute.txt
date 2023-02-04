@@ -1,0 +1,55 @@
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Domain\bin\Debug\net7.0\PPM.Domain.deps.json
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Domain\bin\Debug\net7.0\PPM.Domain.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Domain\bin\Debug\net7.0\PPM.Domain.pdb
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Domain\bin\Debug\net7.0\PPM.Model.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Domain\bin\Debug\net7.0\PPM.Model.pdb
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Domain\obj\Debug\net7.0\PPM.Domain.csproj.AssemblyReference.cache
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Domain\obj\Debug\net7.0\PPM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Domain\obj\Debug\net7.0\PPM.Domain.AssemblyInfoInputs.cache
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Domain\obj\Debug\net7.0\PPM.Domain.AssemblyInfo.cs
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Domain\obj\Debug\net7.0\PPM.Domain.csproj.CoreCompileInputs.cache
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Domain\obj\Debug\net7.0\PPM.Domain.csproj.CopyComplete
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Domain\obj\Debug\net7.0\PPM.Domain.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Domain\obj\Debug\net7.0\refint\PPM.Domain.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Domain\obj\Debug\net7.0\PPM.Domain.pdb
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Domain\obj\Debug\net7.0\ref\PPM.Domain.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Domain\bin\Debug\net7.0\PPM.Domain.deps.json
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Domain\bin\Debug\net7.0\PPM.Domain.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Domain\bin\Debug\net7.0\PPM.Domain.pdb
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Domain\bin\Debug\net7.0\PPM.DAL.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Domain\bin\Debug\net7.0\PPM.Model.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Domain\bin\Debug\net7.0\PPM.DAL.pdb
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Domain\bin\Debug\net7.0\PPM.Model.pdb
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Domain\obj\Debug\net7.0\PPM.Domain.csproj.AssemblyReference.cache
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Domain\obj\Debug\net7.0\PPM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Domain\obj\Debug\net7.0\PPM.Domain.AssemblyInfoInputs.cache
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Domain\obj\Debug\net7.0\PPM.Domain.AssemblyInfo.cs
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Domain\obj\Debug\net7.0\PPM.Domain.csproj.CoreCompileInputs.cache
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Domain\obj\Debug\net7.0\PPM.Domain.csproj.CopyComplete
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Domain\obj\Debug\net7.0\PPM.Domain.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Domain\obj\Debug\net7.0\refint\PPM.Domain.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Domain\obj\Debug\net7.0\PPM.Domain.pdb
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Domain\obj\Debug\net7.0\ref\PPM.Domain.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Domain\bin\Debug\net7.0\PPM.Domain.deps.json
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Domain\bin\Debug\net7.0\PPM.Domain.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Domain\bin\Debug\net7.0\PPM.Domain.pdb
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Domain\bin\Debug\net7.0\IEntityOperation.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Domain\bin\Debug\net7.0\PPM.DAL.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Domain\bin\Debug\net7.0\PPM.Model.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Domain\bin\Debug\net7.0\IEntityOperation.pdb
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Domain\bin\Debug\net7.0\PPM.DAL.pdb
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Domain\bin\Debug\net7.0\PPM.DAL.dll.config
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Domain\bin\Debug\net7.0\PPM.Model.pdb
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Domain\obj\Debug\net7.0\PPM.Domain.csproj.AssemblyReference.cache
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Domain\obj\Debug\net7.0\PPM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Domain\obj\Debug\net7.0\PPM.Domain.AssemblyInfoInputs.cache
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Domain\obj\Debug\net7.0\PPM.Domain.AssemblyInfo.cs
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Domain\obj\Debug\net7.0\PPM.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Domain\obj\Debug\net7.0\PPM.Domain.csproj.CopyComplete
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Domain\obj\Debug\net7.0\PPM.Domain.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Domain\obj\Debug\net7.0\refint\PPM.Domain.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Domain\obj\Debug\net7.0\PPM.Domain.pdb
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Domain\obj\Debug\net7.0\ref\PPM.Domain.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Domain\bin\Debug\net7.0\IEntityOperation.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Domain\bin\Debug\net7.0\IEntityOperation.pdb
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Domain\bin\Debug\net7.0\PPM.DAL.dll.config

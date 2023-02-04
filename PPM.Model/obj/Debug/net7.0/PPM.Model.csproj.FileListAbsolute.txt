@@ -1,0 +1,36 @@
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Model\bin\Debug\net7.0\PPM.Model.deps.json
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Model\bin\Debug\net7.0\PPM.Model.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Model\bin\Debug\net7.0\PPM.Model.pdb
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Model\obj\Debug\net7.0\PPM.Model.csproj.AssemblyReference.cache
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Model\obj\Debug\net7.0\PPM.Model.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Model\obj\Debug\net7.0\PPM.Model.AssemblyInfoInputs.cache
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Model\obj\Debug\net7.0\PPM.Model.AssemblyInfo.cs
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Model\obj\Debug\net7.0\PPM.Model.csproj.CoreCompileInputs.cache
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Model\obj\Debug\net7.0\PPM.Model.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Model\obj\Debug\net7.0\refint\PPM.Model.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Model\obj\Debug\net7.0\PPM.Model.pdb
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.Model\obj\Debug\net7.0\ref\PPM.Model.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Model\bin\Debug\net7.0\PPM.Model.deps.json
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Model\bin\Debug\net7.0\PPM.Model.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Model\bin\Debug\net7.0\PPM.Model.pdb
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Model\obj\Debug\net7.0\PPM.Model.csproj.AssemblyReference.cache
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Model\obj\Debug\net7.0\PPM.Model.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Model\obj\Debug\net7.0\PPM.Model.AssemblyInfoInputs.cache
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Model\obj\Debug\net7.0\PPM.Model.AssemblyInfo.cs
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Model\obj\Debug\net7.0\PPM.Model.csproj.CoreCompileInputs.cache
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Model\obj\Debug\net7.0\PPM.Model.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Model\obj\Debug\net7.0\refint\PPM.Model.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Model\obj\Debug\net7.0\PPM.Model.pdb
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.Model\obj\Debug\net7.0\ref\PPM.Model.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Model\bin\Debug\net7.0\PPM.Model.deps.json
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Model\bin\Debug\net7.0\PPM.Model.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Model\bin\Debug\net7.0\PPM.Model.pdb
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Model\obj\Debug\net7.0\PPM.Model.csproj.AssemblyReference.cache
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Model\obj\Debug\net7.0\PPM.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Model\obj\Debug\net7.0\PPM.Model.AssemblyInfoInputs.cache
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Model\obj\Debug\net7.0\PPM.Model.AssemblyInfo.cs
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Model\obj\Debug\net7.0\PPM.Model.csproj.CoreCompileInputs.cache
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Model\obj\Debug\net7.0\PPM.Model.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Model\obj\Debug\net7.0\refint\PPM.Model.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Model\obj\Debug\net7.0\PPM.Model.pdb
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.Model\obj\Debug\net7.0\ref\PPM.Model.dll

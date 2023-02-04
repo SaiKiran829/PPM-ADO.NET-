@@ -1,0 +1,30 @@
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\IEntityOperation\bin\Debug\net7.0\IEntityOperation.deps.json
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\IEntityOperation\bin\Debug\net7.0\IEntityOperation.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\IEntityOperation\bin\Debug\net7.0\IEntityOperation.pdb
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\IEntityOperation\bin\Debug\net7.0\PPM.Model.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\IEntityOperation\bin\Debug\net7.0\PPM.Model.pdb
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\IEntityOperation\obj\Debug\net7.0\IEntityOperation.csproj.AssemblyReference.cache
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\IEntityOperation\obj\Debug\net7.0\IEntityOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\IEntityOperation\obj\Debug\net7.0\IEntityOperation.AssemblyInfoInputs.cache
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\IEntityOperation\obj\Debug\net7.0\IEntityOperation.AssemblyInfo.cs
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\IEntityOperation\obj\Debug\net7.0\IEntityOperation.csproj.CoreCompileInputs.cache
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\IEntityOperation\obj\Debug\net7.0\IEntityOperation.csproj.CopyComplete
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\IEntityOperation\obj\Debug\net7.0\IEntityOperation.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\IEntityOperation\obj\Debug\net7.0\refint\IEntityOperation.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\IEntityOperation\obj\Debug\net7.0\IEntityOperation.pdb
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\IEntityOperation\obj\Debug\net7.0\ref\IEntityOperation.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\IEntityOperation\bin\Debug\net7.0\IEntityOperation.deps.json
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\IEntityOperation\bin\Debug\net7.0\IEntityOperation.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\IEntityOperation\bin\Debug\net7.0\IEntityOperation.pdb
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\IEntityOperation\bin\Debug\net7.0\PPM.Model.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\IEntityOperation\bin\Debug\net7.0\PPM.Model.pdb
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\IEntityOperation\obj\Debug\net7.0\IEntityOperation.csproj.AssemblyReference.cache
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\IEntityOperation\obj\Debug\net7.0\IEntityOperation.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\IEntityOperation\obj\Debug\net7.0\IEntityOperation.AssemblyInfoInputs.cache
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\IEntityOperation\obj\Debug\net7.0\IEntityOperation.AssemblyInfo.cs
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\IEntityOperation\obj\Debug\net7.0\IEntityOperation.csproj.CoreCompileInputs.cache
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\IEntityOperation\obj\Debug\net7.0\IEntityOperation.csproj.CopyComplete
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\IEntityOperation\obj\Debug\net7.0\IEntityOperation.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\IEntityOperation\obj\Debug\net7.0\refint\IEntityOperation.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\IEntityOperation\obj\Debug\net7.0\IEntityOperation.pdb
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\IEntityOperation\obj\Debug\net7.0\ref\IEntityOperation.dll

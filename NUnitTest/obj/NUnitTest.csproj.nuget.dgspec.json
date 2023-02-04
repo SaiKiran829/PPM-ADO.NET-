@@ -1,0 +1,356 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\NUnitTest\\NUnitTest.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\IEntityOperation\\IEntityOperation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\IEntityOperation\\IEntityOperation.csproj",
+        "projectName": "IEntityOperation",
+        "projectPath": "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\IEntityOperation\\IEntityOperation.csproj",
+        "packagesPath": "C:\\Users\\SPasapula\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\IEntityOperation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SPasapula\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\PPM.Model\\PPM.Model.csproj": {
+                "projectPath": "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\PPM.Model\\PPM.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.32, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\NUnitTest\\NUnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\NUnitTest\\NUnitTest.csproj",
+        "projectName": "NUnitTest",
+        "projectPath": "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\NUnitTest\\NUnitTest.csproj",
+        "packagesPath": "C:\\Users\\SPasapula\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\NUnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SPasapula\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\PPM.Domain\\PPM.Domain.csproj": {
+                "projectPath": "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\PPM.Domain\\PPM.Domain.csproj"
+              },
+              "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\PPM.Model\\PPM.Model.csproj": {
+                "projectPath": "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\PPM.Model\\PPM.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\PPM.DAL\\PPM.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\PPM.DAL\\PPM.DAL.csproj",
+        "projectName": "PPM.DAL",
+        "projectPath": "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\PPM.DAL\\PPM.DAL.csproj",
+        "packagesPath": "C:\\Users\\SPasapula\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\PPM.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SPasapula\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\IEntityOperation\\IEntityOperation.csproj": {
+                "projectPath": "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\IEntityOperation\\IEntityOperation.csproj"
+              },
+              "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\PPM.Model\\PPM.Model.csproj": {
+                "projectPath": "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\PPM.Model\\PPM.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.32, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\PPM.Domain\\PPM.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\PPM.Domain\\PPM.Domain.csproj",
+        "projectName": "PPM.Domain",
+        "projectPath": "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\PPM.Domain\\PPM.Domain.csproj",
+        "packagesPath": "C:\\Users\\SPasapula\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\PPM.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SPasapula\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\IEntityOperation\\IEntityOperation.csproj": {
+                "projectPath": "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\IEntityOperation\\IEntityOperation.csproj"
+              },
+              "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\PPM.DAL\\PPM.DAL.csproj": {
+                "projectPath": "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\PPM.DAL\\PPM.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.32, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\PPM.Model\\PPM.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\PPM.Model\\PPM.Model.csproj",
+        "projectName": "PPM.Model",
+        "projectPath": "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\PPM.Model\\PPM.Model.csproj",
+        "packagesPath": "C:\\Users\\SPasapula\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\SPasapula\\Desktop\\ADO.NET\\ADO.Net\\PPM.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SPasapula\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.32, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

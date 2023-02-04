@@ -1,0 +1,56 @@
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.UI\bin\Debug\net7.0\PPM.UI.deps.json
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.UI\bin\Debug\net7.0\PPM.UI.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.UI\bin\Debug\net7.0\PPM.UI.pdb
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.UI\obj\Debug\net7.0\PPM.UI.csproj.AssemblyReference.cache
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.UI\obj\Debug\net7.0\PPM.UI.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.UI\obj\Debug\net7.0\PPM.UI.AssemblyInfoInputs.cache
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.UI\obj\Debug\net7.0\PPM.UI.AssemblyInfo.cs
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.UI\obj\Debug\net7.0\PPM.UI.csproj.CoreCompileInputs.cache
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.UI\obj\Debug\net7.0\PPM.UI.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.UI\obj\Debug\net7.0\refint\PPM.UI.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.UI\obj\Debug\net7.0\PPM.UI.pdb
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.UI\obj\Debug\net7.0\ref\PPM.UI.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.UI\bin\Debug\net7.0\PPM.UI.deps.json
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.UI\bin\Debug\net7.0\PPM.UI.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.UI\bin\Debug\net7.0\PPM.UI.pdb
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.UI\bin\Debug\net7.0\PPM.DAL.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.UI\bin\Debug\net7.0\PPM.Domain.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.UI\bin\Debug\net7.0\PPM.Model.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.UI\bin\Debug\net7.0\PPM.Domain.pdb
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.UI\bin\Debug\net7.0\PPM.DAL.pdb
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.UI\bin\Debug\net7.0\PPM.Model.pdb
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.UI\obj\Debug\net7.0\PPM.UI.csproj.AssemblyReference.cache
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.UI\obj\Debug\net7.0\PPM.UI.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.UI\obj\Debug\net7.0\PPM.UI.AssemblyInfoInputs.cache
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.UI\obj\Debug\net7.0\PPM.UI.AssemblyInfo.cs
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.UI\obj\Debug\net7.0\PPM.UI.csproj.CoreCompileInputs.cache
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.UI\obj\Debug\net7.0\PPM.UI.csproj.CopyComplete
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.UI\obj\Debug\net7.0\PPM.UI.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.UI\obj\Debug\net7.0\refint\PPM.UI.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.UI\obj\Debug\net7.0\PPM.UI.pdb
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.UI\obj\Debug\net7.0\ref\PPM.UI.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.UI\bin\Debug\net7.0\PPM.UI.deps.json
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.UI\bin\Debug\net7.0\PPM.UI.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.UI\bin\Debug\net7.0\PPM.UI.pdb
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.UI\bin\Debug\net7.0\IEntityOperation.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.UI\bin\Debug\net7.0\PPM.DAL.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.UI\bin\Debug\net7.0\PPM.Domain.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.UI\bin\Debug\net7.0\PPM.Model.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.UI\bin\Debug\net7.0\PPM.Domain.pdb
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.UI\bin\Debug\net7.0\IEntityOperation.pdb
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.UI\bin\Debug\net7.0\PPM.DAL.pdb
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.UI\bin\Debug\net7.0\PPM.DAL.dll.config
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.UI\bin\Debug\net7.0\PPM.Model.pdb
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.UI\obj\Debug\net7.0\PPM.UI.csproj.AssemblyReference.cache
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.UI\obj\Debug\net7.0\PPM.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.UI\obj\Debug\net7.0\PPM.UI.AssemblyInfoInputs.cache
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.UI\obj\Debug\net7.0\PPM.UI.AssemblyInfo.cs
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.UI\obj\Debug\net7.0\PPM.UI.csproj.CoreCompileInputs.cache
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.UI\obj\Debug\net7.0\PPM.UI.csproj.CopyComplete
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.UI\obj\Debug\net7.0\PPM.UI.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.UI\obj\Debug\net7.0\refint\PPM.UI.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.UI\obj\Debug\net7.0\PPM.UI.pdb
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.UI\obj\Debug\net7.0\ref\PPM.UI.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.UI\bin\Debug\net7.0\IEntityOperation.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.UI\bin\Debug\net7.0\IEntityOperation.pdb
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.UI\bin\Debug\net7.0\PPM.DAL.dll.config

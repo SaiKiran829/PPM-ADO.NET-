@@ -1,0 +1,51 @@
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.DAL\bin\Debug\net7.0\PPM.DAL.deps.json
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.DAL\bin\Debug\net7.0\PPM.DAL.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.DAL\bin\Debug\net7.0\PPM.DAL.pdb
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.DAL\obj\Debug\net7.0\PPM.DAL.csproj.AssemblyReference.cache
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.DAL\obj\Debug\net7.0\PPM.DAL.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.DAL\obj\Debug\net7.0\PPM.DAL.AssemblyInfoInputs.cache
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.DAL\obj\Debug\net7.0\PPM.DAL.AssemblyInfo.cs
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.DAL\obj\Debug\net7.0\PPM.DAL.csproj.CoreCompileInputs.cache
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.DAL\obj\Debug\net7.0\PPM.DAL.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.DAL\obj\Debug\net7.0\refint\PPM.DAL.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.DAL\obj\Debug\net7.0\PPM.DAL.pdb
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.DAL\obj\Debug\net7.0\ref\PPM.DAL.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.DAL\bin\Debug\net7.0\PPM.Model.dll
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.DAL\bin\Debug\net7.0\PPM.Model.pdb
+c:\Users\SPasapula\Desktop\ProlificsProjectManagement\ADO.Net\PPM.DAL\obj\Debug\net7.0\PPM.DAL.csproj.CopyComplete
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.DAL\bin\Debug\net7.0\PPM.DAL.deps.json
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.DAL\bin\Debug\net7.0\PPM.DAL.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.DAL\bin\Debug\net7.0\PPM.DAL.pdb
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.DAL\bin\Debug\net7.0\PPM.Model.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.DAL\bin\Debug\net7.0\PPM.Model.pdb
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.DAL\obj\Debug\net7.0\PPM.DAL.csproj.AssemblyReference.cache
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.DAL\obj\Debug\net7.0\PPM.DAL.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.DAL\obj\Debug\net7.0\PPM.DAL.AssemblyInfoInputs.cache
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.DAL\obj\Debug\net7.0\PPM.DAL.AssemblyInfo.cs
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.DAL\obj\Debug\net7.0\PPM.DAL.csproj.CoreCompileInputs.cache
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.DAL\obj\Debug\net7.0\PPM.DAL.csproj.CopyComplete
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.DAL\obj\Debug\net7.0\PPM.DAL.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.DAL\obj\Debug\net7.0\refint\PPM.DAL.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.DAL\obj\Debug\net7.0\PPM.DAL.pdb
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.DAL\obj\Debug\net7.0\ref\PPM.DAL.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.DAL\bin\Debug\net7.0\PPM.DAL.dll.config
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.DAL\bin\Debug\net7.0\PPM.DAL.deps.json
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.DAL\bin\Debug\net7.0\PPM.DAL.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.DAL\bin\Debug\net7.0\PPM.DAL.pdb
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.DAL\bin\Debug\net7.0\IEntityOperation.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.DAL\bin\Debug\net7.0\PPM.Model.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.DAL\bin\Debug\net7.0\IEntityOperation.pdb
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.DAL\bin\Debug\net7.0\PPM.Model.pdb
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.DAL\obj\Debug\net7.0\PPM.DAL.csproj.AssemblyReference.cache
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.DAL\obj\Debug\net7.0\PPM.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.DAL\obj\Debug\net7.0\PPM.DAL.AssemblyInfoInputs.cache
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.DAL\obj\Debug\net7.0\PPM.DAL.AssemblyInfo.cs
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.DAL\obj\Debug\net7.0\PPM.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.DAL\obj\Debug\net7.0\PPM.DAL.csproj.CopyComplete
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.DAL\obj\Debug\net7.0\PPM.DAL.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.DAL\obj\Debug\net7.0\refint\PPM.DAL.dll
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.DAL\obj\Debug\net7.0\PPM.DAL.pdb
+C:\Users\Sai Kiran\Desktop\ADO.NET\ADO.Net\PPM.DAL\obj\Debug\net7.0\ref\PPM.DAL.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.DAL\bin\Debug\net7.0\PPM.DAL.dll.config
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.DAL\bin\Debug\net7.0\IEntityOperation.dll
+c:\Users\SPasapula\Desktop\ADO.NET\ADO.Net\PPM.DAL\bin\Debug\net7.0\IEntityOperation.pdb
